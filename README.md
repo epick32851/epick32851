@@ -1,8 +1,8 @@
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/epick32851?v=4" width="200" style="border-radius: 50%" alt="Tamjid Hossain Epick"/>
+  <img src="your-image-path.jpg" width="600" alt="Tamjid Hossain Epick's Setup"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Tamjid Hossain Epick</h1>
 <h1 align="center">Hi 👋, I'm Tamjid Hossain Epick</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
@@ -30,3 +30,25 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=epick32851&show_icons=true&locale=en" alt="epick32851" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=epick32851" alt="epick32851" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=epick32851&show_icons=true&locale=en&layout=compact" alt="epick32851" />
+</p>
+
+---
+
+### 🧠 Motto:
+> "Build. Break. Learn. Repeat." – Tamjid Hossain Epick
